@@ -1,4 +1,4 @@
-var a = 1;
+var hours = 1;
 
 var b= 2;
 
